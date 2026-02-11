@@ -1,0 +1,9 @@
+[02-Nov-2024 09:32:59 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_verified' in 'field list'
+[02-Nov-2024 09:34:10 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_verified' in 'field list'
+[02-Nov-2024 09:35:48 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'verification_tokens' in 'field list'
+[02-Nov-2024 09:35:50 UTC] PHP Warning:  Trying to access array offset on value of type int in /home/escrxekz/public_html/data/register.php on line 106
+[02-Nov-2024 09:44:41 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'verification_tokens' in 'field list'
+[02-Nov-2024 09:44:42 UTC] PHP Warning:  Trying to access array offset on value of type int in /home/escrxekz/public_html/data/register.php on line 106
+[03-Nov-2024 07:38:25 UTC] No user found for email: qwqt152@gmail.com
+[04-Nov-2024 19:49:17 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'verification_tokens' in 'field list'
+[04-Nov-2024 19:49:18 UTC] PHP Warning:  Trying to access array offset on value of type int in /home/escrxekz/public_html/data/register.php on line 106
